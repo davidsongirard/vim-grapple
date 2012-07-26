@@ -6,5 +6,5 @@ rm -rf .vim
 ln -s ~/vim-grapple/components/ .vim
 
 # Overwrite the vimrc file to use our vimrc file instead
-echo "# Don't alter or vim-grapple will no longer function" > ~/.vimrc
+echo '" Do not alter or vim-grapple will no longer function' > ~/.vimrc
 echo 'source ~/vim-grapple/configuration/vimrc.vim' >> ~/.vimrc
