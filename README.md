@@ -5,15 +5,16 @@ Collection of Vim plugins, commands and configurations that can be easily unwrap
 
 Installation
 ------------
+First pull down a fresh copy of Vim-Grapple from git with
 
-git clone https://github.com/middleinitial/vim-grapple.git
+  git clone https://github.com/middleinitial/vim-grapple.git
 
 then cd to 
 
-  vim-grapple
+    cd ~/vim-grapple
 
 the run 
 
-  update.sh
+    update.sh
 
 that should do it!
