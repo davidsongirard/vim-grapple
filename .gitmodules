@@ -1,0 +1,18 @@
+[submodule "components/autoload"]
+	path = components/autoload
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "components"]
+	path = components
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "pathogen"]
+	path = pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "components/bundle/ultisnips"]
+	path = components/bundle/ultisnips
+	url = https://github.com/SirVer/ultisnips.git
+[submodule "components/bundle/delimitmate"]
+	path = components/bundle/delimitmate
+	url = https://github.com/Raimondi/delimitMate.git
+[submodule "components/bundle/rails"]
+	path = components/bundle/rails
+	url = https://github.com/tpope/vim-rails.git
