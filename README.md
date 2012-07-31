@@ -1,7 +1,7 @@
 vim-grapple
 ===========
 
-Collection of Vim plugins, commands and configurations that can be easily unwrapped on any linux machine.
+Collection of Vim plugins, commands, colors and configurations that can be easily unwrapped on any linux machine.
 
 Installation
 ------------
