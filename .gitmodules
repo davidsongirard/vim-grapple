@@ -19,3 +19,6 @@
 [submodule "components/bundle/commenter"]
 	path = components/bundle/commenter
 	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "components/bundle/zencoding"]
+	path = components/bundle/zencoding
+	url = git://github.com/mattn/zencoding-vim/
