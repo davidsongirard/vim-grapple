@@ -14,4 +14,3 @@ source ~/vim-grapple/configuration/mappings.vim
 source ~/vim-grapple/configuration/indenting.vim
 source ~/vim-grapple/configuration/commands.vim
 source ~/vim-grapple/configuration/colors.vim
-source ~/vim-grapple/configuration/ultisnips.vim
