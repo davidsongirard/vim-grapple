@@ -1,4 +1,5 @@
 " New commands added to vim
+" TODO *
 
 " Allows cTags to open a selection in a new tab
 :map <C-\> :tab split<CR>:exec("tag ".expand("<cword>"))<CR>
