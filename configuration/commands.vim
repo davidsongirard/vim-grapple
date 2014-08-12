@@ -35,7 +35,7 @@ endfunction
 function! Update_Sass()
   if &modified
     write
-    silent !sass css/main.scss &> css/main.css 
+    call system('sass ' . expand("%:p") . ' &> ' . expand("%:p:r") . '.css')
     call Refresh_firefox()
   endif
 endfunction
