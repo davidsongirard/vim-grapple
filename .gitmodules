@@ -19,3 +19,6 @@
 [submodule "components/bundle/commenter"]
 	path = components/bundle/commenter
 	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "components/bundle/vim-coffee-script"]
+	path = components/bundle/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script.git
